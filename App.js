@@ -168,6 +168,10 @@ const ProductMatcher = () => {
           </div>
         </div>
       </div>
+       {/* ⚠️ Notice: Backend not deployed */}
+        <div className="w-full rounded-xl p-4 bg-yellow-100 dark:bg-yellow-800 border-l-4 border-yellow-500 dark:border-yellow-400 text-yellow-800 dark:text-yellow-100 font-medium text-center mb-8">
+        ⚠️ Note: This is just the UI interface. This is for submitting the Assignment LINKs.
+        </div>
 
       {/* Main */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
