@@ -149,7 +149,7 @@ const ProductMatcher = () => {
                 <div className="text-white/70 text-sm">Source code & repository</div>
               </div>
             </a>
-            <a href="https://github.com/yourusername/visual-product-matcher/blob/main/README.md" target="_blank" rel="noopener noreferrer"
+            <a href="https://lalbear.github.io/visual-product-matcher/" target="_blank" rel="noopener noreferrer"
                className="group flex items-center justify-center space-x-3 px-8 py-6 bg-gradient-to-r from-teal-500 to-emerald-600 hover:from-teal-600 hover:to-emerald-700 rounded-2xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl">
               <div className="p-3 bg-white/20 rounded-xl group-hover:bg-white/30 transition-colors"><BookOpen className="w-8 h-8 text-white" /></div>
               <div className="text-left">
@@ -157,7 +157,7 @@ const ProductMatcher = () => {
                 <div className="text-white/80 text-sm">Setup & usage guide</div>
               </div>
             </a>
-            <a href="https://youtube.com/watch?v=your-demo-video" target="_blank" rel="noopener noreferrer"
+            <a href="https://drive.google.com/file/d/1KMljuA1GoQAlI-_sJ3oz4U4p7e8vfe4Z/view?usp=sharing" target="_blank" rel="noopener noreferrer"
                className="group flex items-center justify-center space-x-3 px-8 py-6 bg-gradient-to-r from-red-500 to-rose-600 hover:from-red-600 hover:to-rose-700 rounded-2xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl">
               <div className="p-3 bg-white/20 rounded-xl group-hover:bg-white/30 transition-colors"><Video className="w-8 h-8 text-white" /></div>
               <div className="text-left">
